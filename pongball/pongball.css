@@ -1,0 +1,32 @@
+#gamecontainer{
+    text-align: center;
+    background-color: aquamarine;
+    border: 5px solid darkblue;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#gameboard{
+    border-top: 6px solid blue;
+    border-bottom: 6px solid blue;
+}
+
+#scoretext{
+    border: 5px solid darkcyan;
+    background-color: aliceblue;
+    font: 50px fantasy ;
+    width: 400px;
+    justify-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#restartbtn{
+    font-size: large;
+    font-family: cursive , Georgia, 'Times New Roman', Times, serif;
+    border: 2px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
